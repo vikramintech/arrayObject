@@ -17,7 +17,7 @@ h1 {
 .arrayObjects {
     margin: 0 auto;
     margin-top: 155px;
-  border: 0px solid rgba(0, 0, 255, 0.438);
+  border: 0px solid;
   border-radius: 9px;
   width: 779px;
   padding:23px;
