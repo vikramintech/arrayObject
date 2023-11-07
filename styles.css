@@ -11,6 +11,18 @@ body {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
-h1{
-    margin-top:27px;
+h1 {
+  margin-top: 27px;
+}
+.arrayObjects {
+    margin: 0 auto;
+    margin-top: 155px;
+  border: 0px solid rgba(0, 0, 255, 0.438);
+  border-radius: 9px;
+  width: 779px;
+  padding:23px;
+  background-color: antiquewhite;
+  font-family: monospace;
+  font-size:19px;
+  box-shadow: 3px 3px 5px 5px rgba(0, 0, 0, 0.623);
 }
